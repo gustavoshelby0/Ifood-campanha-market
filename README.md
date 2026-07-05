@@ -9,10 +9,10 @@
 
 
 📥 **Baixe a apresentação estilo Power BI em HTML:**
-[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/1MwRrP0vC8TlC59YERNtSvr1OT8jb5nBv/view?usp=sharing)
+[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/1FMGIMdUPiP8bNQyhXnfDWF-VUtPWopSk/view?usp=sharing)
 
 📥 **Baixe a apresentação executiva em HTML:**
-[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/1xTdlJ39vP7nnSIgI9yuUyoSo0qJMUnRN/view?usp=sharing)
+[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/10J8_goKUW8FMdsWZoouXOCBEC_INt3ql/view?usp=sharing)
 
 
 
