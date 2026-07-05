@@ -1,5 +1,22 @@
 # Análise da Campanha de Marketing do Ifood
 
+- **Acesse o relatório no Looker Studio:** [https://lookerstudio.google.com/reporting/9536ef1a-3c05-4347-b335-ae914e3c92d5](https://lookerstudio.google.com/reporting/9536ef1a-3c05-4347-b335-ae914e3c92d5)
+
+- **📥 Baixe a apresentação em PowerPoint (clique no link e, em seguida, em "Download" ou "View raw"):**  
+  [https://github.com/gustavoshelby0/Ifood-campanha-market/blob/main/Relatorio%20de%20Campanha%20do%20iFood.pptx](https://github.com/gustavoshelby0/Ifood-campanha-market/blob/main/Relatorio%20de%20Campanha%20do%20iFood.pptx)
+
+
+## Data Analyst 
+
+
+📥 **Baixe a apresentação estilo Power BI em HTML:**
+[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/1MwRrP0vC8TlC59YERNtSvr1OT8jb5nBv/view?usp=sharing)
+
+📥 **Baixe a apresentação executiva em HTML:**
+[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/1xTdlJ39vP7nnSIgI9yuUyoSo0qJMUnRN/view?usp=sharing)
+
+
+
 ## Problema de Negócio
 
 iFood é o principal aplicativo de entrega de comida no Brasil, presente em mais de mil cidades.
