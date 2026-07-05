@@ -2,7 +2,7 @@
 
 [Acesse o relatório no Looker Studio](https://lookerstudio.google.com/reporting/9536ef1a-3c05-4347-b335-ae914e3c92d5)
 
-📥**[Baixe a apresentação em PowerPoint]**(https://github.com/gustavoshelby0/Ifood-campanha-market/blob/main/Relatorio%20de%20Campanha%20do%20iFood.pptx)
+📥[Baixe a apresentação em PowerPoint](https://github.com/gustavoshelby0/Ifood-campanha-market/blob/main/Relatorio%20de%20Campanha%20do%20iFood.pptx)
 
 
 ## Data Analyst 
