@@ -5,14 +5,14 @@
 📥[Baixe a apresentação em PowerPoint](https://github.com/gustavoshelby0/Ifood-campanha-market/blob/main/Relatorio%20de%20Campanha%20do%20iFood.pptx)
 
 
-## Data Analyst 
+## Data Analyst LLM
 
 
 📥 **Baixe a apresentação estilo Power BI em HTML:**
-[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/1FMGIMdUPiP8bNQyhXnfDWF-VUtPWopSk/view?usp=sharing)
+[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/1gyAR5eKNhJnIeE-GkABINKNGWZG1w6rj/view?usp=sharing)
 
 📥 **Baixe a apresentação executiva em HTML:**
-[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/10J8_goKUW8FMdsWZoouXOCBEC_INt3ql/view?usp=sharing)
+[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/177DzZk-yvcrDVS1VZt6AlW-ewOi8_6Yu/view?usp=sharing)
 
 
 
@@ -117,10 +117,23 @@ Para maximizar o lucro da próxima campanha, o Marketing precisa direcionar suas
 
 # Visualize a Análise Completa
 
-- **Acesse o relatório no Looker Studio:** [https://lookerstudio.google.com/reporting/9536ef1a-3c05-4347-b335-ae914e3c92d5](https://lookerstudio.google.com/reporting/9536ef1a-3c05-4347-b335-ae914e3c92d5)
+[Acesse o relatório no Looker Studio](https://lookerstudio.google.com/reporting/9536ef1a-3c05-4347-b335-ae914e3c92d5)
 
-- **📥 Baixe a apresentação em PowerPoint (clique no link e, em seguida, em "Download" ou "View raw"):**  
-  [https://github.com/gustavoshelby0/Ifood-campanha-market/blob/main/Relatorio%20de%20Campanha%20do%20iFood.pptx](https://github.com/gustavoshelby0/Ifood-campanha-market/blob/main/Relatorio%20de%20Campanha%20do%20iFood.pptx)
+📥[Baixe a apresentação em PowerPoint](https://github.com/gustavoshelby0/Ifood-campanha-market/blob/main/Relatorio%20de%20Campanha%20do%20iFood.pptx)
+
+
+## Data Analyst LLM
+
+
+📥 **Baixe a apresentação estilo Power BI em HTML:**
+[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/1gyAR5eKNhJnIeE-GkABINKNGWZG1w6rj/view?usp=sharing)
+
+📥 **Baixe a apresentação executiva em HTML:**
+[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/177DzZk-yvcrDVS1VZt6AlW-ewOi8_6Yu/view?usp=sharing)
+
+
+
+
 
 # Próximos passos
 
